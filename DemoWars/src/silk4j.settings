@@ -4,7 +4,7 @@
     <browserType>InternetExplorer</browserType>
     <baseStateInfo>
       <locator>//BrowserApplication</locator>
-      <url>www.advantageonlineshopping.com</url>
+      <url>http://nimbusserver:8000/#/</url>
     </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
